@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: rgb(112, 148, 214);
+    color: #000;
+    font-size: 30px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.cabecalho-imagem{
+    width: 13%;
+    height: 12%;
+}
+    
+.cabecalho-itens{
+    display: inline-block;
+    margin-top: 90px 70px;
+}
+
+
